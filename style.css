@@ -126,7 +126,9 @@ p {
 }
 
 .vantagens-titulo{
-  font-size: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 3rem;
   letter-spacing: 2px;
   background: url(./img/onda.svg);
   color: #ffbb00;
